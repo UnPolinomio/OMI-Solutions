@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 #define fore(x, a, b) for (lli x = a, ___limit___ = b; x < ___limit___; ++x)
 #define all(x) x.begin(), x.end()
-#define deb(x) cout << #x << (x) << '\n';
+#define deb(x) cout << #x << ": " << (x) << '\n';
 #define _                           \
   ios_base::sync_with_stdio(false); \
   cin.tie(0);                       \
